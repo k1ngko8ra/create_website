@@ -1,82 +1,75 @@
-# GitHub Template Repository
+# Colt Carson - Personal Portfolio
 
-Welcome to the GitHub template repository for the **courses (CS3361, CS3365)**! This template serves as a starting point for your first assignment of creating and deploying your portfolio. Follow the instructions below to download, customize, and push your work to your own GitHub repository.
+This repository contains my personal portfolio website created for CS 3365
+Software Engineering at Texas Tech University.
 
----
+The portfolio highlights my academic background in Computer Science and
+Mathematics, technical skills, software projects, leadership experience,
+and professional interests.
 
-## 📂 Repository Structure
-The template includes the following structure:
+## Portfolio Sections
 
-```
-📦create_website
- ┣ 📂files/         # Add your CV PDF inside this folder
- ┣ 📂images/        # Add your image inside this folder
- ┣ projects.html    # Update this file to add your own project details
- ┣ index.html       # Update this file for the main page of your portfolio
- ┣ 📜README.md      # Project instructions and information
- ┗ 📜LICENSE        # Licensing information
-```
+- About Me
+- Skills
+- Projects
+- Contact Information
 
----
+## Projects Featured
 
-## 🚀 Getting Started
+### Budget Tracker
+A Java-based budgeting application that uses object-oriented programming,
+user input, exception handling, and organized class relationships.
 
-### 1. **Clone or Download This Repository**  
-Clone the repository to your local machine:
-```bash
-git clone https://github.com/MaazAmjad/create_website.git
-```
-Alternatively, download it as a ZIP file and extract it.
+### Concrete Strength Prediction Model
+A Python machine learning project that uses linear regression to predict
+the compressive strength of concrete based on mixture data.
 
----
+## Technologies Used
 
-### 2. **Update Your Information**  
-Make the following changes:
-- Replace placeholder information (e.g., `Your Name`, `Project Title`) with your details.
-- Add your project code and any required files in the respective folders.
+- HTML
+- CSS
+- Java
+- Python
+- Git
+- GitHub
+- GitHub Pages
 
----
+## Git & GitHub Workflow
 
-### 3. **Create Your GitHub Repository**  
-1. Log in to your GitHub account.  
-2. Create a new repository (**public** unless otherwise specified).  
-3. Copy the repository URL for use in the next step.
+This project was developed using Git and GitHub with a feature-branch
+workflow. Major sections of the portfolio were developed on separate
+branches and merged into the main branch after completion.
 
----
+Feature branches included:
 
-### 4. **Push Your Changes to Your Repository**  
-Run the following commands to upload your project to your new repository:
+- feature-home
+- feature-about
+- feature-skills
+- feature-projects
+- feature-contact
+- feature-styling
+- feature-readme
 
-```bash
-# Initialize a new Git repository
-git init
+## Live Website
 
-# Stage all changes
-git add .
+The portfolio will be deployed using GitHub Pages.
 
-# Commit your changes
-git commit -m "Initial commit"
+GitHub Pages URL:
 
-# Set the main branch
-git branch -M main
+`https://k1ngko8ra.github.io/create_website/`
 
-# Add the remote repository
-git remote add origin <your-repo-url>
+## Viewing the Project
 
-# Push changes to GitHub
-git push -u origin main
-```
+To view the deployed website, open the GitHub Pages link above.
 
----
+To view the project locally:
 
-## 📝 Submission Instructions  
-Once you have pushed your work to GitHub, submit the repository link as per the instructions provided in the course.
+1. Clone the repository.
+2. Open the project folder.
+3. Open `index.html` in a web browser.
 
----
+## Author
 
-### ⚖️ License  
-This project template is licensed under the [MIT License](LICENSE).
-
----
-
-Celebrate and enjoy your coding experience! 🚀
+Colt Carson  
+Computer Science and Mathematics  
+Texas Tech University
