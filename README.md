@@ -52,7 +52,7 @@ Feature branches included:
 
 ## Live Website
 
-The portfolio will be deployed using GitHub Pages.
+The portfolio is deployed using GitHub Pages.
 
 GitHub Pages URL:
 
